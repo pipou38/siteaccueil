@@ -621,6 +621,10 @@ a {
    .container-activity a {
         width: 100%;
    }
+    .hebergement-afficher {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
  
     /**Footer**/
   
