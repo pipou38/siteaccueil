@@ -401,10 +401,14 @@ a {
 .footer-container h3 {
     margin: 0px;
 }
-.footer-container ul {
+.footer-container li {
     padding:0px;
     padding-bottom: 15px;
     margin: 0px; 
+    list-style-type: none;
+}
+.footer-container ul {
+    padding-left: 0;
 }
 
 
@@ -643,6 +647,7 @@ a {
         width: 100%;
         padding: 15px;
         padding-bottom: 0;
+        padding-left: 30px;
         
     }
 
